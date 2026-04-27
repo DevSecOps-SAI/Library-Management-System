@@ -1,10 +1,10 @@
-# 📚 Library Management System
+#  Library Management System
 
 A web-based Library Management System built using Python and Django to manage books, users, and transactions efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Book Management (Add, Update, Delete)
 - User Authentication (Login/Register)
@@ -15,7 +15,7 @@ A web-based Library Management System built using Python and Django to manage bo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Backend: Python, Django
 - Database: SQLite
@@ -24,7 +24,7 @@ A web-based Library Management System built using Python and Django to manage bo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 librarymanagement/                                                                                                                        
@@ -40,7 +40,7 @@ librarymanagement/
 ---
 ```
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the Repository
 git clone https://github.com/your-username/library-management-system.git
@@ -60,7 +60,7 @@ Open: http://127.0.0.1:8000/
 
 ---
 
-## 🚀 Production Setup
+##  Production Setup
 
 Run using Gunicorn:
 gunicorn librarymanagement.wsgi
@@ -69,7 +69,7 @@ Static files handled using Whitenoise.
 
 ---
 
-## 🧠 Architecture
+##  Architecture
 
 Follows Django MVT pattern:
 - Model: Database structure
@@ -78,7 +78,7 @@ Follows Django MVT pattern:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Email Notifications
 - Fine Calculation System
@@ -86,7 +86,7 @@ Follows Django MVT pattern:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ASVPReddy  
 Python Full Stack Developer
